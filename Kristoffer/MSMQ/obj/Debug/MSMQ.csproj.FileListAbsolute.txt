@@ -1,0 +1,10 @@
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\bin\Debug\MSMQ.exe.config
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\bin\Debug\MSMQ.exe
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\bin\Debug\MSMQ.pdb
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\obj\Debug\MSMQ.csproj.AssemblyReference.cache
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\obj\Debug\MSMQ.Form1.resources
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\obj\Debug\MSMQ.Properties.Resources.resources
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\obj\Debug\MSMQ.csproj.GenerateResource.cache
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\obj\Debug\MSMQ.csproj.CoreCompileInputs.cache
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\obj\Debug\MSMQ.exe
+C:\Users\Tilewoods\Documents\PBASU1Sem\SI\LEK1INTRO\MSMQ\MSMQ\obj\Debug\MSMQ.pdb
