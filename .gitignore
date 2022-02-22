@@ -1,2 +1,4 @@
 # Specify filepatterns you want git to ignore.
 *.class
+.DS_Store
+azureSettings.xml
