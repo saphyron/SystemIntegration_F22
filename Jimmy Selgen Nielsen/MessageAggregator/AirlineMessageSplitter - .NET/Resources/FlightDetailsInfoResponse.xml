@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FlightDetailsInfoResponse>
+  <Flight number="SK937" Flightdate="20190225">
+    <Origin>ARLANDA</Origin>
+    <Destination>LONDON</Destination>
+  </Flight>
+  <Passenger>
+    <ReservationNumber>CA937200305251</ReservationNumber>
+    <FirstName>Anders</FirstName>
+    <LastName>And</LastName>
+  </Passenger>
+  <Luggage>
+    <Id>CA937200305252</Id>
+    <Identification>1</Identification>
+    <Category>Normal</Category>
+    <Weight>17.3</Weight>
+  </Luggage>
+  <Luggage>
+    <Id>CA937200305252</Id>
+    <Identification>2</Identification>
+    <Category>Large</Category>
+    <Weight>22.7</Weight>
+  </Luggage>
+</FlightDetailsInfoResponse>
